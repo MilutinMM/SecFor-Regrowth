@@ -1,6 +1,7 @@
 # Assessing Amazon Rainforest Regrowth with GEDI and ICESat-2 Data
 
 This repository contains code necessary to reproduce the results published in [Milenković et al. 2022](https://doi.org/10.1016/j.srs.2022.100051). 
+
 The input data and intermediate results are published and can be downloaded from [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6480488.svg)](https://doi.org/10.5281/zenodo.6480488).
 
 ## Overview
